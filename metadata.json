@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Circle Bazar",
+  "description": "A premium e-commerce application",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
